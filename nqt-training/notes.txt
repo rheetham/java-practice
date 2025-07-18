@@ -11,3 +11,27 @@ Ways to create an object in java
 transient and volatile
 
 Relationships in OOP
+
+JVM architecture
+
+What is platform independent and dependent JDK, JRE, JVM
+
+Class Vars = Global Vars
+
+Execution hierarchy 
+
+How imports work
+
+J2EE, J2SE, etc.
+
+What are standalone applications
+
+What is static encapsulation
+
+Why do we even need access specifiers
+
+Difference between final, finalized and finally
+
+Difference between String, StringBuffer, StringBuilder
+
+SCP

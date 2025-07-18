@@ -1,0 +1,109 @@
+Most Frequent
+
+Armstrong Number
+Check Prime
+Fibonacci Series
+Binary Conversions
+Reverse Number
+Palindrome
+Sum, Count of Digits, Characters
+GCD, LCM
+Harshad Number
+
+
+Lesser Frequent
+
+Automorphic number
+Bouncy Number
+Magic Number
+Neon Number
+Perfect Number
+Strong Number
+
+
+Pattern Programs
+
+Butterfly pattern
+Continuous Triangle 
+Diamond Pattern
+Hourglass Pattern
+Mirrored Right Triangle
+Floyd's Triangle
+Pascal's Triangle
+Pyramid pattern
+Reversed Alphabet triangle
+0-1 Triangle
+Hollow Patterns
+
+
+String 
+
+Count of vowels and consonants
+Count frequency of characters
+Find/Remove Duplicate Characters
+String Anagram
+
+
+Arrays
+
+Check Prime
+Count Frequency of elements in an array
+Find/Remove Duplicates 
+Array Rotation
+Move 0s
+2nd Largest/Smallest element in an array
+Bubble Sort
+
+
+Miscellaneous
+
+String permutations
+Implement Binary Search 
+
+
+Problem Statements
+
+215 Leetcode
+Sachin loves numbers and coding. His dad gives a task to write a code 
+to find the nth largest number in an array.
+
+Password Checker
+You are given a function int checkPassword(char[] arr). 
+The function accepts string str of size n as an argument.
+Implement the function which returns 1 if the given string is a valid password else 0.
+
+str is a valid password if:
+    Contains at least 4 characters
+    Contains at least 1 numberic digit
+    Contains at least 1 capital letter
+    Must not have ' ' or /
+    Starting character must not be a number 
+Assumption(Input string will not be empty)
+
+Merge two sorted arrays
+You are given two sorted arrays arr1 and arr2
+of sizes m and n respectively.
+Merge them into 1 sorted array.
+
+Compress consecutive characters
+You are given a string consisting of lowercase
+english alphabets. Your task is to compress the  
+string by replacing consecutive repetiting characters
+with the character followed by the count of its repetitions.
+If a character appears only once consecutively, it should be
+added to the compressed string as it is.
+
+Two players datta and akash are playing a particular game
+there are n number of rounds for which max score is 10.
+Based on some task both the players will be assigned with scores
+The one with greater score will get 1 point for each round.
+If both players are having same scores then point is given to no one.
+When all rounds are completed you need to tell who wins.
+
+The function accepts two positive integers r and unit and 
+positive integer array of size m and its arguments represents the 
+number of rats present in an area unit is the amount of food each rat consumes
+and each ith element of an array arr represents the amount of food in i + 1 house number
+where 0 <= i.Note : return -1 if array is null 
+                    return 0 if the total amount of food from all houses is not sufficient
+                    for all the rats. 
