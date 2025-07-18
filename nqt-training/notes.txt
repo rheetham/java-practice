@@ -1,0 +1,13 @@
+Upcasting, Downcasting
+Autoboxing, Autounboxing
+Widening, Narrowing
+
+Memoization vs Recursion
+
+Miscellaneous operators
+
+Ways to create an object in java
+
+transient and volatile
+
+Relationships in OOP
